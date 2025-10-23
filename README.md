@@ -1,4 +1,12 @@
 ## Hi there 👋
+### Here is Zhixin Zhu from Sun Yat-Sen University, China
+- 🔭 I’m currently working on computer architecture
+- 🌱 I’m currently learning maching learning
+- ⚡ Fun fact: You guess!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cynthia532&show_icons=true&theme=radical)
+
+Still studying ^_^
 
 <!--
 **Cynthia532/Cynthia532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
