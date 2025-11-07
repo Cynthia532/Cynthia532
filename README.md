@@ -6,6 +6,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cynthia532&show_icons=true&theme=radical)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jocs/Jocs/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jocs/Jocs/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jocs/Jocs/output/snake.svg">
+</picture>
+
 Still studying ^_^
 
 <!--
